@@ -1,0 +1,64 @@
+{
+  "items": [
+      {
+        "name": "Burning Brazier of Elf",
+        "type": "artifact",
+        "effect": "",
+        "description": "Upon attacking an enemy, there is a 10% chance to recover 1 MP."
+      },
+      {
+        "name": "Book of the Mad",
+        "type": "artifact",
+        "effect": "",
+        "description": "Every second, own Mana is reduced by 140, but own DMG to enemies is increased by 21%."
+      },
+      {
+        "name": "Ice bound staff",
+        "type": "weapon",
+        "effect": "2301 Attack",
+        "description": "2-set effect: 100ACC, 4-set effect: 130ACC"
+      },
+      {
+        "name": "Darkness Orb",
+        "type": "orb",
+        "effect": "26535 Max Hp",
+        "description": "2-set effect: 10% pDEF, 4-set effect: 13%pDEF"
+      },
+      {
+        "name": "Darkness Staff",
+        "type": "weapon",
+        "effect": "26535 Max Hp",
+        "description": "2-set effect: 100ACC, 4-set effect: 130ACC"
+      },
+      {
+        "name": "Lightning Flash, Livatis",
+        "type": "unique weapon",
+        "effect": "461 Attack",
+        "description": "Upon a Crit Hit, ATK Spd is increased by 80 and Crit DMG is increased by 20% for 15 sec. Can be stacked up to 5 times max."
+      },
+      {
+        "name": "Darkness Orb",
+        "type": "orb",
+        "effect": "26535 Max Hp",
+        "description": "2-set effect: 10% pDEF, 4-set effect: 13%pDEF"
+      },
+      {
+        "name": "The Seductress, Guillotine",
+        "type": "unique weapon",
+        "effect": "461 Attack",
+        "description": "Upon attacking, there is a 25% chance of dealing 80% of ATK as extra M.DMG, and ATK being increased by 2%. ATK boost can be stacked up to 10 times max."
+      },
+      {
+        "name": "Broad Sword",
+        "type": "weapon",
+        "effect": "76 Attack",
+        "description": "2-set effect: 5%MaxHP, 4-set effect: 8%MaxHP"
+      },
+      {
+        "name": "Tome of Black Magic",
+        "type": "artifact",
+        "effect": "",
+        "description": "Every 10 sec, target a single enemy. Said enemy takes DMG that ignores DEF equal to 2.9% of current HP each second for 5 sec, and reduces Mana by 290. This skill is effective only in the Arena."
+      }
+    ]
+}
